@@ -1,0 +1,113 @@
+body {
+    background-color: silver;
+}
+
+h1 {
+    color: rgb(191, 18, 47);
+
+}
+
+.container {
+    border: 2px double red;
+    padding: 10px;
+    margin: 10px;
+    /* border-radius: 5px; */
+}
+
+#heading {
+    color: rgb(167, 27, 27);
+    padding: 10px;
+    padding-left: 10px;
+}
+
+.inline {
+    border: 2px solid green;
+    text-decoration: underline;
+    padding: 2px;
+
+}
+
+.scale {
+    border: 1px solid white;
+    /* padding: 2px; */
+    background-color: rgb(244, 243, 242);
+    padding-left: 10px;
+    padding-right: 10px;
+    /* padding-left: 10px; */
+    margin: 5px;
+
+}
+
+#heading1 {
+    padding: inherit;
+    color: rgba(150, 101, 101, 0.418);
+
+}
+
+.very {
+    border: 0px solid;
+    padding-top: 10px;
+    margin: 5px;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+}
+
+.fourteen {
+    background-color: rgb(10, 217, 240);
+}
+
+.thirteen {
+    background-color: rgb(56, 225, 245);
+}
+
+.twelve {
+    background-color: rgb(103, 230, 245);
+}
+
+.eleven {
+    background-color: rgb(134, 235, 247);
+}
+
+.ten {
+    background-color: rgb(156, 238, 247);
+}
+
+.nine {
+    background-color: rgb(179, 238, 245);
+}
+
+.eight {
+    background-color: rgb(208, 243, 247);
+}
+
+.seven {
+    background-color: rgb(58, 210, 65);
+}
+
+.six {
+    background-color: rgb(245, 186, 229);
+}
+
+.five {
+    background-color:rgb(245, 154, 220) ;
+}
+
+.four {
+    background-color:rgb(250, 127, 217) ;
+}
+
+.three {
+    background-color:rgb(247, 96, 206) ;
+}
+
+.two {
+    background-color:rgb(252, 68, 201) ;
+}
+
+.one {
+    background-color: rgb(250, 40, 191);
+}
+
+.zero {
+    background-color: rgb(250, 20, 185);
+}
